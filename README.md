@@ -41,7 +41,6 @@ To validate core functionalities including login, product search, cart managemen
 ---
 
 ## 📸 Screenshots
-(Add 2–3 screenshots here)
 
----
+
 
